@@ -264,6 +264,8 @@ Grocery List
   color: var(--clr-grey-1);
   letter-spacing: 2px;
   transition: var(--transition);
+  max-width: 70%;
+  overflow: hidden;
 }
 .edit-btn,
 .delete-btn {
@@ -271,7 +273,7 @@ Grocery List
   border-color: transparent;
   cursor: pointer;
   font-size: 1.5rem;
-  margin: 0 2rem;
+  margin: 0 1rem;
   transition: var(--transition);
 }
 .edit-btn {
@@ -304,4 +306,9 @@ Grocery List
 }
 .clear-btn:hover {
   color: var(--clr-red-dark);
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
 }
