@@ -217,7 +217,7 @@ Grocery List
   color: var(--clr-grey-5);
 }
 .submit-btn {
-  background: var(--clr-primary-8);
+  background: var(--clr-red-dark);
   border-color: transparent;
   flex: 0 0 5rem;
   display: grid;
@@ -231,9 +231,10 @@ Grocery List
   content: var(--clr-primary-5);
   transition: var(--transition);
   font-size: 0.85rem;
+  color: #ffff;
 }
 .submit-btn:hover {
-  background: var(--clr-primary-5);
+  background: var(--clr-red-light);
   color: var(--clr-white);
 }
 
