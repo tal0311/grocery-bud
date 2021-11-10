@@ -29,6 +29,6 @@ In building the project I used React.js for the front end and local storage keep
 
 ## App screenShots
 
-![Alt text](/screenShots/Screenshot 2021-11-10 111758.png)
+![Alt text](https://github.com/tal0311/grocery-bud/tree/master/screenShots)
 
 
