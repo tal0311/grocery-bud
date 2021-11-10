@@ -29,6 +29,6 @@ In building the project I used React.js for the front end and local storage keep
 
 ## App screenShots
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/screenShots/Screenshot 2021-11-10 111758.png?raw=true "grucery-bud")
 
 
