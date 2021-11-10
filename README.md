@@ -2,9 +2,9 @@
 ## Grocery bud
 The app allows the user to create a grocery list.
 The project enables work with a local storage and the use of 3 main operations:
-Create new item
-Delete item
-Uptade tutle of an item
+1. Create new item
+2. Delete item
+3. Uptade tutle of an item
 
 ## How to run the app
 1. Clone the code to your machine.
