@@ -7,8 +7,8 @@ Delete item
 Uptade tutle of an item
 
 ## How to run the app
-1. Clone the code to your machineץ
-2. Install dependencies with 'npm i'
+1. Clone the code to your machine.
+2. Install dependencies with 'npm install'
 3. Run 'npm run start'
 
 ## How to use the app
